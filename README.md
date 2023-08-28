@@ -1,2 +1,3 @@
-# python_deneme_projeleri
-python'a  yeni başlayan arkadaşlar bu denemeleri yaparak kendini geliştiriebilirsiniz
+# TEMEL SEVİYE PYTHON DERSLERİ
+python'a  yeni başlayanlar için adım adım gideceğiniz bir dosya
+
